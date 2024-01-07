@@ -6,7 +6,7 @@
 Код тестов содержится в tests\src\tests.cpp  
 
 # Как запускать тесты  
-git clone  
+git clone https://github.com/B-a-r-c-i-k/compl.git  
 cd tests/src  
 git clone https://github.com/google/googletest  
 cd googletest  
