@@ -7,7 +7,7 @@
 
 # Как запускать тесты  
 git clone https://github.com/B-a-r-c-i-k/compl.git  
-cd tests/src  
+cd compl/tests/src  
 git clone https://github.com/google/googletest  
 cd googletest  
 mkdir build  
